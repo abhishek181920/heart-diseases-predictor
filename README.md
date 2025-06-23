@@ -57,7 +57,7 @@ git push origin main
 Deploy:
 Log in to Streamlit Cloud.
 Create a new app, select your repository, and set app.py as the main file.
-Deploy and access the app via the provided URL (e.g., https://your-app-name.streamlit.app).
+Deploy and access the app via the provided URL  https://your-app-name.streamlit.app)](https://heart-diseases-predictor-a8dlcsr8idu8xwtzkfxcbg.streamlit.app/.
 
 Test on Devices:
 Open the URL on desktops, tablets, and smartphones to verify responsiveness.
